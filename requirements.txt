@@ -1,5 +1,5 @@
 Flask_Cors==5.0.0
-numpy==2.2.3
-pandas==2.2.3
+numpy
+pandas
 tensorflow==2.18.0
 tensorflow_hub==0.16.1
