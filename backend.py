@@ -8,7 +8,8 @@ from tensorflow.keras.preprocessing import image
 import io
 import numpy as np
 import pandas as pd
-
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 # Initialize Flask app
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})  # Enable CORS for all routes
