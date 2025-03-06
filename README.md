@@ -1,1 +1,1 @@
-[![Watch the video](https://github.com/tanishqjain071003/Dog-breed-identification/blob/main/Project%20Demo)
+[![Watch the video](https://raw.githubusercontent.com/tanishqjain071003/Dog-breed-identification/main/thumbnail.png)](https://raw.githubusercontent.com/tanishqjain071003/Dog-breed-identification/main/Project%20Demo)
