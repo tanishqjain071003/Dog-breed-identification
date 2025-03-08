@@ -12,7 +12,7 @@ Pawdentify is a deep learning application that can identify dog breeds from imag
 
 - **Accuracy Rate**: 78% across 120 dog breed classes
 - **Dataset Size**: 10,222 images
-- **Model Architecture**: Leverages MobileNetV2 through transfer learning
+- **Model Architecture**: Leverages EfficientNet through transfer learning
 - **Technologies**: TensorFlow, NumPy, Pandas, MatPlotLib
 
 ## 🔧 Features
