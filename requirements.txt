@@ -8,4 +8,3 @@ pandas
 gunicorn
 werkzeug==2.0.3
 requests==2.28.1
-gevent
